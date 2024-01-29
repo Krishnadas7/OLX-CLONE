@@ -1,0 +1,26 @@
+.navbar{
+    background-color: rgb(239,241,243);
+    height: 69px;
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+.language-arrow{
+    width: 41px;
+    height: 34px;
+    color: rgb(0,47,52);  
+    margin-top: -10px;
+}
+.languape-span{
+    color: rgb(0,47,52);
+    font-weight: 700;
+    margin-top: 12px;
+    margin-left: 21px;
+}
+.login-button{
+    margin-left: 13px;
+    margin-top: -10px;
+    font-weight: bold;
+    color: rgb(0,47,52);
+    text-decoration: underline;
+}
