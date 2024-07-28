@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    color:rgb(167,172,165);
+    justify-content: space-around;
+    font-size: small;
+    padding-top: 15px;
+}
+.headings{
+    color: black;
+}
+.footer-downside{
+    height: 100px;
+    background-color: rgb(0,47,52);
+}
+.footer-downside{
+    height: 65px;
+    background-color: rgb(0,47,52);
+    color: white;
+    font-size: small;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

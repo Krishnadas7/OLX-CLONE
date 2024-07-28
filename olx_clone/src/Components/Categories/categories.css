@@ -1,0 +1,21 @@
+.category-downarrow-icon{
+    width: 41px;
+    height: 34px;
+    margin-left: 0px;
+    margin-top: -8px;
+    color: rgb(0,47,52);
+}
+.category{
+    background-color: rgb(255, 255, 255);
+    padding-top: 81px;
+    box-shadow: 3px 3px 10px rgb(239,241,243);
+}
+.category-title{
+    margin-left: 2rem;
+    font-size: small;
+}
+.cat-items{
+    margin-left: 1rem;
+    font-size: 0.9rem;
+    
+}
